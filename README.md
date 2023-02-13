@@ -1,3 +1,3 @@
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/main.yml/badge.svg
+[![Build C++](https://github.com/keoniburns/work-flow-exercise/actions/workflows/main.yml/badge.svg)](https://github.com/keoniburns/work-flow-exercise/actions/workflows/main.yml)
 
 # work-flow-exercise
